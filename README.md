@@ -7,7 +7,7 @@ This code was developed for the paper:
 Lucas J. Koerner, Shantanu Gupta, Atul Ingle, Mohit Gupta.
 *Photon Inhibition for Energy-Efficient Single-Photon Imaging* in Proceedings of the European Conference on Computer Vision (ECCV) 2024.
 
-The project [website](https://wisionlab.com/project/inhibition/?dummyparam=1) is at https://wisionlab.com/project/inhibition/?dummyparam=1.
+Here's the project [website](https://wisionlab.com/project/inhibition)!
 
 <p align="center" width="150%">
   <img src="figures/photon_processing_layers2.png" />
