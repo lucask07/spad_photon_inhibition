@@ -1,0 +1,8 @@
+\begin{figure*}
+    \centering
+    \includegraphics{figures/qbp_swissSPAD2/fig_qbp_long_hdr_seq.png}
+    \caption{\textbf{Adaptive policies on video sequences enable stronger inhibition, preserve low-light details and, in bright-light, decouple flux and detection energy.} (a) Video frame reconstructions for three keyframes with varying light levels are shown. The left column shows burst reconstruction \cite{maQuantaBurstPhotography2020a} from the original binary frames without inhibition, and the right column those after sub-sampling $10\times$ (fixed $90\%$ inhibition). The middle column shows results after exposure bracketing combined with saturation look-ahead (Fig. \ref{table:computation_policies}b). Reasonable results are obtained under strong light (top row) with both methods, but plain sub-sampling loses details in low light (a person's outline in bottom row, furniture in middle row). Bracketing+look-ahead inhibition is more adaptive to flux. All image visualizations are in the rate-domain ($Y$ rather than $H$) and use gamma-compression ($\gamma = 0.4$). 
+    (b) The overall light level in this $\sim 600$kframes video sequence shows an increasing trend over time; the three keyframes in (a) span almost two orders of magnitude in illumination change.
+    (c,d) Per keyframe and cumulative detection counts -- bracketing+look-ahead inhibition ultimately results in fewer photons being detected over the whole sequence. (e) Number of measurements taken for each keyframe; reductions may translate to energy savings during sensor read-out. Plots in (c,d,e) are sub-sampled for clarity, and crossover points are marked by green arrows.}
+    \label{fig:qbp_long_hdr_seq}
+\vspace{-0.1in}\end{figure*}

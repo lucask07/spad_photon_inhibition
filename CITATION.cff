@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+preferred-citation: 
+  type: conference-paper
+  authors:
+  - family-names: "Koerner"
+    given-names: "Lucas J."
+    orcid: "https://orcid.org/0000-0002-7236-7202"
+  - family-names: "Gupta"
+    given-names: "Shantanu"
+    orcid: "https://orcid.org/0009-0008-3772-4316"
+  - family-names: "Ingle"
+    given-names: "Atul"
+    orcid: "https://orcid.org/0000-0002-3695-5891"
+  - family-names: "Gupta"
+    given-names: "Mohit"
+    orcid: "https://orcid.org/0000-0002-2323-7700"
+  title: "Photon Inhibition for Energy-Efficient Single-Photon Imaging"
+  conference: "European Conference on Computer Vision (ECCV)"
+  booktitle: "European Conference on Computer Vision (ECCV)"
+  year: 2024

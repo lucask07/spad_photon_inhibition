@@ -1,0 +1,18 @@
+---
+ffmpeg_path: '/panfs/roc/msisoft/ffmpeg/4.1.2/bin/ffmpeg'
+figure_dir: '~/bernoulli_data/figures/'
+data_dir: '~/bernoulli_data/data/'
+hdr_img_dir: '/home/lkoerner/lkoerner/bernoulli_images/hdr/'
+#bsds_dir: '/home/lkoerner/lkoerner/contour/BSDS300/images/test/'
+bsds_dir: '/home/lkoerner/lkoerner/bernoulli_images/BSDS500/data/images/test'
+#img_dir: '/home/lkoerner/lkoerner/bernoulli_images/BSDS500/data/images/test'
+#img_ext: '.jpg'
+#img_dir: '/home/lkoerner/lkoerner/bernoulli_images/hdr'
+#img_ext: '.exr'
+
+# img_dir: '/home/lkoerner/lkoerner/datasets/100samplesDataset/wideDR10'
+img_dir: '/home/lkoerner/lkoerner/datasets/100samplesDataset/wideDR10_x4resize'
+img_ext: '.exr'
+
+bsds_matlab_dir: '/home/lkoerner/lkoerner/contour/' 
+toy_imgs: '/home/lkoerner/lkoerner/bernoulli_inhibit/images/'

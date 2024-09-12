@@ -1,0 +1,21 @@
+# works with python3.12 on Rocky8
+cvxopt
+imageio
+matlab
+matplotlib
+numpy==1.26
+opencv_python
+pandas
+scipy
+neutompy
+astropy
+tifffile
+read_roi
+seaborn
+statsmodels
+torch
+piq
+torchmetrics
+scikit-image==0.21.0 
+mkl==2.4.0 
+
